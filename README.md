@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**dkabulski/dkabulski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Dariusz Kabulski, a Senior Data Engineer living in London.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work closely with teams to deliver data solutions, recently focusing on using AWS, Databricks Delta, Spark, and Python stack. 
+
+I am self-motivated, have critical thinking skills, and proactive. 
+I have a background in commercial finance, data science, and business intelligence. 
+This combination makes me a well-rounded engineer who understands the needs of stakeholders and teams, and communicates with them clearly.
+
+
+## ⚡ Stack
+
+* **Data Engineering:** Pyspark, Airflow, Spark, Databricks, Delta, Glue, Athena, Redshift, Snowflake, Kinesis.
+* **Software Engineering:** Lambda, ECS, Step Functions, SNS, SQS, RDS, ElasticSearch, AppSync, GraphQL, DynamoDB.
+* **DevOps:** AWS CDK, CloudFormation, GitHub Actions, CircleCI, PagerDuty, Docker.
